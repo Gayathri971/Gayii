@@ -1,0 +1,39 @@
+*{
+   margin:0;
+   padding:0; 
+}
+body{
+    background-color:whitesmoke;
+}
+.slide{
+    background-color: rgb(230, 188, 126);
+    width:180px;
+    height:100%;
+    position:absolute;
+
+}
+h1{
+    color:rgb(151, 54, 151);
+    font-size:35px;
+    font-weight:600;
+    text-align:right;
+    padding:10px 0;
+    padding-right:30px;
+    pointer-events:none;
+}
+li{
+    list-style:none;
+}
+li a{
+    color:black;
+    font-weight:500;
+    padding:5px 0;
+    text-transform: capitalize;
+    text-decoration: none;
+    display:block;
+}
+i{
+    width:40px;
+   text-align:center;
+
+}
